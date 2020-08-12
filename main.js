@@ -21,7 +21,7 @@ Vue.prototype.$RQST = myRequest;
 Vue.prototype.$util = util;
 Vue.prototype.$Pid = 'wx67f2e191aead66f7';
 
-// #ifdef H5
+// #ifdef  H5
 util.getSDK()
 // #endif
 
